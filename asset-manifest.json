@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-3-2/static/css/main.82329f55.css",
-    "main.js": "/react-3-2/static/js/main.af60874c.js",
+    "main.js": "/react-3-2/static/js/main.ba90e61e.js",
     "static/media/chotki.jpg": "/react-3-2/static/media/chotki.face25f5f0689ed98c1a.jpg",
     "index.html": "/react-3-2/index.html",
     "main.82329f55.css.map": "/react-3-2/static/css/main.82329f55.css.map",
-    "main.af60874c.js.map": "/react-3-2/static/js/main.af60874c.js.map"
+    "main.ba90e61e.js.map": "/react-3-2/static/js/main.ba90e61e.js.map"
   },
   "entrypoints": [
     "static/css/main.82329f55.css",
-    "static/js/main.af60874c.js"
+    "static/js/main.ba90e61e.js"
   ]
 }
